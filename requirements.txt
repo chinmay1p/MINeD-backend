@@ -1,0 +1,10 @@
+flask
+gunicorn
+requests
+beautifulsoup4
+pandas
+google-generativeai
+pdfplumber
+pdf2image
+pytesseract
+re
